@@ -20,7 +20,7 @@
 
 ![Alt Text](1_whole_weekend.png)
 
-    If zoom in on 2 hours it behave like we expect (but only those 2 hours):
+    If we zoom in on 2 hours it behave like we expect (but only those 2 hours):
 
 ![Alt Text](1_2_hour_interval.png)
 
@@ -48,11 +48,11 @@
 
 ![Alt Text](2_whole_day.png)
 
-    If zoom in on 2 hours in the start it again behave like we expect:
+    If we zoom in on 2 hours in the start it again behave like we expect:
 
 ![Alt Text](2_2_hour_interval_1.png)
 
-    If zoom in on 2 hours in the later part it is missing the build up for high points:
+    If we zoom in on 2 hours in the later part it is missing the build up for high points:
 
 ![Alt Text](2_2_hour_interval_2.png)
 
