@@ -16,10 +16,12 @@
 
 #### Results:
 
-It partly behaves like we expect:
+    It partly behaves like we expect:
+
 ![Alt Text](1_whole_weekend.png)
 
-If zoom in on 2 hours it behave like we expect (but only those 2 hours):
+    If zoom in on 2 hours it behave like we expect (but only those 2 hours):
+
 ![Alt Text](1_2_hour_interval.png)
 
 #### Conclusion:
@@ -42,13 +44,16 @@ If zoom in on 2 hours it behave like we expect (but only those 2 hours):
 
 #### Results:
 
-It again partly behaves like we expect:
+    It again partly behaves like we expect:
+
 ![Alt Text](2_whole_day.png)
 
-If zoom in on 2 hours in the start it again behave like we expect:
+    If zoom in on 2 hours in the start it again behave like we expect:
+
 ![Alt Text](2_2_hour_interval_1.png)
 
-If zoom in on 2 hours in the later part it is missing the build up for high points:
+    If zoom in on 2 hours in the later part it is missing the build up for high points:
+
 ![Alt Text](2_2_hour_interval_2.png)
 
 #### Conclusion:
@@ -71,10 +76,12 @@ If zoom in on 2 hours in the later part it is missing the build up for high poin
 
 #### Results:
 
-We again see the same pattern that it is getting too wet after a while (average humidity on y-axis):
+    We again see the same pattern that it is getting too wet after a while (average humidity on y-axis):
+
 ![Alt Text](3_whole_day_ispumping.png)
 
-We have fixed a problem it would have been watering even more if it was not for the new code. This is with the actual humidity on the y-axis:
+    We have fixed a problem it would have been watering even more if it was not for the new code. This is with the actual humidity on the y-axis:
+
 ![Alt Text](3_whole_day_normal.png)
 
 #### Conclusion:
@@ -97,7 +104,8 @@ We have fixed a problem it would have been watering even more if it was not for 
 
 #### Results:
 
-We got no results. The pump stopped functioning:
+    We got no results. The pump stopped functioning:
+
 ![Alt Text](4_no_resultspng.png)
 
 #### Conclusion:
